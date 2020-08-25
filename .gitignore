@@ -1,0 +1,14 @@
+# Ignore the UltraLight build directory
+core/build/
+
+ui/node_modules/
+ui/dist/
+
+# Ignore editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
