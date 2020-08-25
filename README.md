@@ -1,5 +1,5 @@
 # League Manager
-Leage Manager uses two seperate technologies and programming languages: one for the ui, and one for the logic. The UI is a web application built using the Vue.js framework,
+League Manager uses two seperate technologies and programming languages: one for the ui, and one for the logic. The UI is a web application built using the Vue.js framework,
 while the logic is standard C++, using the Ultralight framework to display and facilitate communcation between the UI and the main application.
 
 ## Setting up Ultralight
